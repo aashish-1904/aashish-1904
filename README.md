@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashish Kumar</h1>
-<h3 align="center">A passionate learner, ML and DL enthusiast</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-1904&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-1904" /> </p>
 
