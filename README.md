@@ -1,9 +1,13 @@
 # 💫 Hi, I'm Aashish Kumar
-🔭 I’m currently working on app.codju.com ( and my sleep schedule )<br>👯 I’m looking to collaborate on AI and Web projects<br>🌱 I’m currently learning full stack development<br>💬 Ask me about anything<br>⚡ Fun fact - (sochna pdega)
+🔭 I’m currently working on [Codju](https://app.codju.com/) ( and my sleep schedule )<br>👯 I’m looking to collaborate on AI and Web projects<br>🌱 I’m currently learning full stack development<br>💬 Ask me about anything<br>⚡ Fun fact - (sochna pdega)
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashish_1904) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashish1904) 
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=aashish-1904&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ---
 
@@ -19,8 +23,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=aashish-1904&icon=0&color=3)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
