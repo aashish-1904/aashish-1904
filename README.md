@@ -17,7 +17,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aashish-1904&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=aashish-1904&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ---
 
