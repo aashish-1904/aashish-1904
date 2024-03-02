@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Aashish Kumar
-🔭 I’m currently working on [Codju](https://app.codju.com/) ( and my sleep schedule )<br>👯 I’m looking to collaborate on AI and Web projects<br>🌱 I’m currently learning full stack development<br>💬 Ask me about anything<br>⚡ Fun fact - (sochna pdega)
+🔭 I’m currently working on ... <br>👯 I’m looking to collaborate on AI and Web projects<br>🌱 I’m currently learning full stack development<br>💬 Ask me about anything<br>⚡ Fun fact - (sochna pdega)
 
 
 ## 🌐 Socials:
