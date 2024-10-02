@@ -67,7 +67,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-1904&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
-![](https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/aashish-1904/aashish-1904/blob/main/github-user-contribution.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aashish-1904&icon=8&color=0)](https://visitcount.itsvg.in)
